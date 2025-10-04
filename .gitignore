@@ -214,3 +214,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Directorio local de datos de MongoDB (Puerto 27015)
+data/
